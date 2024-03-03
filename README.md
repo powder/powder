@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <a href="https://twitter.com/powder_codes" target="blank"><img src="https://img.shields.io/twitter/follow/powder_codes?logo=twitter&style=for-the-badge" alt="powder" /></a> </p>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://ko-fi.com/amethyst_pixie> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="powder" /></a></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=powder&show_icons=true&locale=en&layout=compact" alt="powder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=powder&show_icons=true&locale=en" alt="lisandra-dev" />
+</p>
