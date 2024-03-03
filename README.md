@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> <a href="https://twitter.com/powder_codes" target="blank"><img src="https://img.shields.io/twitter/follow/powder_codes?logo=twitter&style=for-the-badge" alt="powder" /></a> </p>
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://ko-fi.com/amethyst_pixie> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="powder" /></a></p>
+<a href='https://ko-fi.com/P5P21Z13Z' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=powder&show_icons=true&locale=en&layout=compact" alt="powder" />
